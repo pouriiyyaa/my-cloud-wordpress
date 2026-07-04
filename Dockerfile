@@ -1,2 +1,2 @@
-FROM wordpress:sqlite
+FROM wordpress:latest
 EXPOSE 80
